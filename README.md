@@ -1,2 +1,3 @@
 # Capital-structure-impact-on-the-performance-of-the-banking-industry-in-Vietnam
 Capital structure impact on the performance of the banking industry in Vietnam
+The research data uses secondary data from the annual financial statements from 2015 to 2020 of 26 joint-stock commercial banks in Vietnam that have been listed on stock exchanges, corresponding to 156 observations. For tabular data, the estimation methods used are fixed effects model FEM and random effects model REM. After that, the study uses the Hausman test to evaluate whether the FEM or REM model is more suitable and draw conclusions.
