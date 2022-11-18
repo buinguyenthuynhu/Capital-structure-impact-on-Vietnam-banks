@@ -1,5 +1,5 @@
 # Capital-structure-impact-on-the-performance-of-the-banking-industry-in-Vietnam
-Capital structure impact on the performance of the banking industry in Vietnam
+
 The research aims to help Vietnamese joint stock commercial banks to increase efficiency performance through influencing capital structure, and finding ways to increase reasonable capital to ensure that the capital requirements are met as prescribed by law and international standards. The research model examines the impact of capital structure on the bank's performance in relation to internal factors of the bank, namely size, equity ratio, deposit ratio, loan ratio, bad debt ratio to the return on equity and rate of return on total assets of the bank.
 Using data of 26 Vietnamese joint stock commercial banks in the period 2015 - 2020, applying the fixed effects estimation method (FEM), the paper finds that capital structure has an impact positively related to bank performance. In addition, the study also found a positive relationship between size and bank performance when the deposit rate has the opposite effect. The study concludes that banks should choose to increase equity to improve operational efficiency and at the same time improve financial capacity.
 
